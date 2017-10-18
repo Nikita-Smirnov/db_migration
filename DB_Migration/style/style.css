@@ -1,0 +1,36 @@
+.form_conteiner{
+    width: 500px; 
+    height: 500px; 
+    background: #fc0;
+    border: 3px solid blue;
+    border-radius: 10px; 
+    display: inline-block;
+    float: left;
+    padding-left: 15px;
+}
+.form_conteiner h1{
+    text-align: center;
+}
+.button{
+    background: navy;
+    color: white;
+    font-size: 15pt;
+    border-radius: 10px; 
+    margin-left: 150px;
+    margin-top: 50px; 
+
+}
+.conteiner{
+    width: 500px; 
+    height: 500px; 
+    margin-left: 20px;
+    background: #fc0;
+    border: 3px solid blue;
+    border-radius: 10px; 
+    display: inline-block;
+    float: left;
+    overflow: auto;
+}
+.conteiner p {
+    text-align: center;
+}    
